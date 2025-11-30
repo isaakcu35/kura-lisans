@@ -1,0 +1,12 @@
+{
+  "key": "2498CAE94E2642799D7F552A6A243993",
+  "school_name": "100.yıl Mesleki Eğitim Merkezi",
+  "expires": "2026-12-01",
+  "admin_username": "ridvan",
+  "admin_password": "100yilmem",
+  "max_seats": 1,
+  "machine_ids": [],
+  "tur": [
+    "beceri"
+  ]
+}

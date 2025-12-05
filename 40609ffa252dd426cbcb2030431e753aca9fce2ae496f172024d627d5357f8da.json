@@ -4,7 +4,7 @@
   "expires": "2030-12-01",
   "admin_username": "ridvan",
   "admin_password": "100yilmem",
-  "max_seats": 1,
+  "max_seats": 3,
   "machine_ids": ["76706fceedfb345114a126cd5eeba0b01099be479a1d932b736b2bf0af2cf3ce"],
   "tur": [
     "beceri","sorumluluk"
